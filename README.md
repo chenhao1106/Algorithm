@@ -1,2 +1,3 @@
-# Algorithn
- NTU EE - Algorithm Course
+# Algorithm
+ Department of Electrical Engineering, National Taiwan University    
+ Algorithm Course homework
